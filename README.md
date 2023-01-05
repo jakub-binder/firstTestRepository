@@ -1,7 +1,11 @@
-# firstTestRepository
+# FirstTestRepository
+**Hlavni nadpis** text text
 
 ## Nadpis2 ##
 
-### Nadpis3 ###
+### readme.md ###
 
-Test first of repository on GitHub
+- **Zkratky** (`Ctrl+B`) - (`Ctrl+I`)
+
+Soublor **readme.md** obsahuje text v **Markdown sintaxi**.
+Samostatný editor: [hyperlink syntax](http://markdownpad.com/)
